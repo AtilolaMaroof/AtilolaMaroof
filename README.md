@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AtilolaMaroof
+- 👋 Hi, I’m @Ma'roofOA
 - 👀 I’m interested in Data Analytic, Data Science, Machine Learning, and Artificial Intelligence
 - 🌱 I’m currently learning Data Analytic from Udacity Nanodegree program
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning project
